@@ -1,17 +1,18 @@
 <!-- GitHub Profile README for Nirjana Barua -->
 
-<h2 align="center">👋 Hi there, I'm Nirjana Barua</h2>
-<p align="center">💻 Fresh Graduate | Aspiring Software Engineer | Competitve Programmer | Web Developer | Lifelong Learner</p>
+<h2 align="center">👋 **Hi there, I'm Nirjana Barua**</h2>
+<p align="center">💻 **Fresh Graduate | Aspiring Software Engineer | Competitve Programmer | Web Developer | Lifelong Learner**</p>
 
 ---
 
 ### 🚀 About Me
 
-🎓 A curious and driven CS graduate who enjoys tackling real-world problems through code and clean software solutions. 
-💻 Skilled in HTML, CSS, JavaScript, React, Node.js, and MongoDB — now exploring MySQL, Postman and Redux.  
+🎓 A curious and driven CS graduate passionate about solving real-world problems with clean code.
+💻 Skilled in **HTML**, **CSS**, **JavaScript**, **React**, **Node.js**, **Express.js** and **MongoDB** — now exploring **MySQL**, **Postman** and **Redux**.  
 🌱 Eager to grow as a Software Engineer by learning modern technologies and contributing to real-world projects.  
+👯 I’m looking to collaborate with others preparing for software engineering roles.
 📚 I enjoy solving problems, learning new tools and turning ideas into digital reality.  
-⚡ Fun fact: I find peace in code and chaos in bugs — but love solving both! 😄
+⚡ Fun fact: I’m so good at daydreaming, I could win gold if it ever became an Olympic sport! 😂🏅
 
 ---
 
@@ -30,29 +31,13 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NirjanaBarua&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=NirjanaBarua&theme=dark&border_radius=5" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirjanaBarua&layout=compact&theme=github_dark" alt="Top Languages" />
-</p>
-
----
-
 ### 📫 Connect with Me
 
-<p>
+<p align="center">
   <a href="mailto:nirjanamohona@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/https://linkedin.com/in/nirjana-barua" target="_blank">
+  <a href="https://linkedin.com/in/nirjana-barua" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
