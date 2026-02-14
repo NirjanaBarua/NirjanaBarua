@@ -8,7 +8,7 @@
 ### 🚀 About Me
 
 🎓 A curious and driven CS graduate passionate about solving real-world problems with clean code.<br>
-💻 Skilled in **HTML**, **CSS**, **JavaScript**, **TypeScript**, **Zustansd**, **React**, **Node.js**, **Express.js** and **MongoDB** 
+💻 Skilled in **HTML**, **CSS**, **JavaScript**, **TypeScript**, **Zustand**, **React**, **Node.js**, **Express.js** and **MongoDB** 
 🌱 Eager to grow as a Software Engineer by learning modern technologies and contributing to real-world projects.  
 👯 I’m looking to collaborate with others preparing for software engineering roles.<br>
 📚 I enjoy solving problems, learning new tools and turning ideas into digital reality.  
